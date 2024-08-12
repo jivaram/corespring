@@ -13,5 +13,6 @@ public class EmployeMain {
         System.out.println("phones=" +emp1.getPhones());
         System.out.println("courses=" +emp1.getCourses());
         System.out.println("addresses=" +emp1.getAddresses());
+        System.out.println("properties=" + emp1.getProperties());
     }
 }

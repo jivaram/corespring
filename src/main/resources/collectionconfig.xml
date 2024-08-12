@@ -29,6 +29,12 @@
                 <entry key="c" value="12 months"/>
             </map>
         </property>
+        <property name="properties">
+            <props>
+                <prop key="name">Jiva Ram</prop>
+                <prop key="profesion">Software Engineer</prop>
+            </props>
+        </property>
     </bean>
 
     </beans>
